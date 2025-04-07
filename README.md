@@ -120,26 +120,29 @@ def train_model(model, train_loader, num_epochs=3, learning_rate=0.001):
 ## OUTPUT
 ### Training Loss per Epoch
 
-![image](https://github.com/user-attachments/assets/f4d70e89-63eb-441e-8400-c7d725cc768d)
+![image](https://github.com/user-attachments/assets/8c4d3216-534a-4dbb-aeb8-c3e237b1b0ee)
+
 
 
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/dac31d75-9c52-40e3-928d-8db9642bea57)
+![image](https://github.com/user-attachments/assets/c6394447-0537-491f-a730-ade77645b91f)
+
 
 
 
 ### Classification Report
+![image](https://github.com/user-attachments/assets/8bf3fadd-ecdd-483d-b210-d18756245ae9)
 
-![image](https://github.com/user-attachments/assets/c79ff9bb-9c3c-449b-a08f-0fe9c9a34205)
 
 
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/60f0f148-689d-480e-b12f-a7e3ab79ed17)
+![image](https://github.com/user-attachments/assets/caaa68c6-3bef-45d4-a774-b75c032fa3a2)
+
 
 
 
