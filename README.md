@@ -10,7 +10,8 @@ Include the Problem Statement and Dataset.
 
 ## Neural Network Model
 
-![image](https://github.com/user-attachments/assets/bc86f9c7-3a48-4540-a37b-d0f5a730a2ac)
+![image](https://github.com/user-attachments/assets/601719b0-3412-4ff4-81de-a1ff5d7d5f84)
+
 
 
 ## DESIGN STEPS
